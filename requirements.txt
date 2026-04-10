@@ -1,4 +1,3 @@
-
 # LangChain
 langchain
 langchain-openai
@@ -14,3 +13,6 @@ python-dotenv
 # Vector Store
 faiss-cpu
 chromadb
+
+# Audio
+gtts
