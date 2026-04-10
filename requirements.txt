@@ -1,0 +1,16 @@
+
+# LangChain
+langchain
+langchain-openai
+langchain-groq
+langchain-community
+
+# Streamlit
+streamlit
+
+# Environment
+python-dotenv
+
+# Vector Store
+faiss-cpu
+chromadb
