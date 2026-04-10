@@ -214,7 +214,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Ashutosh Kumar Rao**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ASHUTOSH-KUMAR-RAO-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-your-username-181717?style=for-the-badge&logo=github)]([https://github.com/your-username](https://github.com/ASHUTOSH-KUMAR-RAO))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-username)
 
 ---
