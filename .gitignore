@@ -1,4 +1,3 @@
-
 # Environment Variables
 .env
 
@@ -32,3 +31,10 @@ Thumbs.db
 
 # Chroma DB
 chroma_db/
+
+# Database
+*.db
+interviews.db
+
+# Audio
+welcome.mp3
